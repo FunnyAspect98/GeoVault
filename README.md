@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GeoVault — Bhu-Explorer
 
 > **Land Intelligence. Boundary Clarity.**  
@@ -749,3 +750,6 @@ pnpm oxfmt src
 
 - **License:** The repository license has not yet been specified. Please contact the project maintainers before commercial use or public redistribution.
 - **Contributions:** Contributions, architectural suggestions, and bug reports are welcome. Please submit an issue or pull request outlining proposed modifications.
+=======
+# GeoVault
+>>>>>>> cb16b1a330ee97dd01606981d279f322809d48e6
