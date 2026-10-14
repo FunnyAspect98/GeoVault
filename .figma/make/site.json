@@ -1,0 +1,10 @@
+{
+  "description": "Explore land parcels and visualize boundaries with GeoVault, a platform for accurate boundary analysis and spatial conflict identification.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
